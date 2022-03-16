@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Data Analysis on Bike Sharing.
 
 
 ## Table of Contents
@@ -11,38 +11,32 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Bike Sharing Assingment.
+- This project is about sharing the bikes for rent
+- Trying to find the most important cause for the drops in Bike Sharing
+- CSV file which contains various variables for Bike sharing and Renting.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- The Bike sharing is more in the clearsky weather and in the month between may and october.
+- This looks like the Bike sharing is happening in the good weather, weekdays and in good season
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python 3.9 - Anaconda
+- matplotlib libraries
+- Other Python libraries
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by generic analysis of the bike sharing happening across the world
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@arunvgeorge90]
 
 
 <!-- Optional -->
